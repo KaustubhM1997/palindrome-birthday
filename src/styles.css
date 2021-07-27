@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.center {
+  max-width: 500px;
+  margin: auto;
+  padding-top: 1.5rem;
+}
+
+.input {
+  max-width: 300px;
+  margin-top: 1rem;
+}
+
+.btn {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+  width: 5rem;
+  border: none;
+  cursor: pointer;
+}
+
+body {
+  background-color: #a78bfa;
+}

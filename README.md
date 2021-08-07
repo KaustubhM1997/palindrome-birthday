@@ -8,7 +8,7 @@ A palindrome is basically a word, phrase, or a number that reads the same backwa
 
 The user needs to do two things, namely:
 
-1. Enter their birth date in the date fieled
+1. Enter their birth date in the date field
 2. Then click on the Check button
 
 As soon as the user does this, the App would display a message showing whether their birtday is palindrome or not. If the user's birthday is not palindrome then it also shows the nearest palindrome date and by how many days did the user miss it.
